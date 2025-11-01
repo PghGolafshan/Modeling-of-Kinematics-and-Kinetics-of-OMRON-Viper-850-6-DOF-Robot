@@ -1,0 +1,1 @@
+# Modeling-of-Kinematics-and-Kinetics-of-OMRON-Viper-850-6-DOF-Robot
